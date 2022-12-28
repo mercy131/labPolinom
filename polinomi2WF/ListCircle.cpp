@@ -4,7 +4,7 @@
 
 #include<iostream>
 
-
+/*POLINME*/
 ListCircle::ListCircle()
 {
 	head = new Monom(0, -1);
